@@ -1,0 +1,5 @@
+metier\beans\Categorie.class
+metier\interfaces\ICatalogueDAO.class
+metier\beans\Produit.class
+metier\beans\Bean.class
+metier\impl\CatalogueImpl.class
